@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043413513441",
+    "firebase_url": "https://calendar-13a6c.firebaseio.com",
+    "project_id": "calendar-13a6c",
+    "storage_bucket": "calendar-13a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043413513441:android:5ea1afb73265b62c5f33a0",
+        "android_client_info": {
+          "package_name": "ie.wit.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043413513441-21ejid0et333qt0kh137tnqseetojidi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit.calendar",
+            "certificate_hash": "6f542caffa2a1c98b752597d1cbe062922e1d259"
+          }
+        },
+        {
+          "client_id": "1043413513441-tovm9o8feq70edmf1e729fbeg1pl1r65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBnc5nTnGGuqtqaKZIqNUVLH1XGsFX3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043413513441-tovm9o8feq70edmf1e729fbeg1pl1r65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

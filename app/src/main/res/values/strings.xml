@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="agendeTitle">Agenda</string>
+    <string name="title_activity_event">Event</string>
+    <string name="eventTitle">New Event</string>
+
+    <string name="eventname">Event name</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="newEvent">New Event</string>
+    <string name="saveButton">Save</string>
+    <string name="time">time</string>
+    <string name="confirm">Event Saved, Thank you</string>
+    <string name="eventsOnDate">You have saved, events today.</string>
+    <string name="enterTime">Please Enter a VALID time</string>
+    <string name="createEvent">Create new event</string>
+    <string name="date">Date</string>
+    <string name="save_button">Save Button</string>
+    <string name="title_activity_time">Time</string>
+    <string name="action_agenda">agenda</string>
+</resources>
